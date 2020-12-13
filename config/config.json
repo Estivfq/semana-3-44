@@ -1,8 +1,8 @@
 {
     "development": {
-        "username": "",
-        "password": "",
-        "database": "",
+        "username": "XBpurLWFQv",
+        "password": "zdY8CG1ChV",
+        "database": "XBpurLWFQv",
         "host": "remotemysql.com",
         "dialect": "mysql"
     },
