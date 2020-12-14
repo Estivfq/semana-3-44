@@ -43,3 +43,5 @@ router.beforeEach((to, from, next) => {
 });
 
 export default router;
+
+//const controller = require('./controller/controller.js');
